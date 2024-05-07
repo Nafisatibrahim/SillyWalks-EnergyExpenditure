@@ -8,8 +8,6 @@ Our analysis revealed significant variations in energy expenditure across the di
 - **Usual Walk**: Had the least variability in energy expenditure, making it the most efficient walking style under study.
 - **Putey Walk**: Displayed moderate energy expenditure, higher than the Usual Walk but significantly lower than the Teabag Walk.
 
-![Boxplot of Energy Expenditure by Walking Style](path/to/boxplot_image.png)
-
 ### ANOVA Results
 The Analysis of Variance (ANOVA) highlighted highly significant differences among the walking styles:
 
