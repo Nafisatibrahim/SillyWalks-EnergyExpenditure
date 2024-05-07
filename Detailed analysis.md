@@ -1,4 +1,3 @@
-Markdown File Content (detailed_analysis.md)
 # Detailed Analysis of Energy Expenditure Across Walking Styles
 
 ## Results
