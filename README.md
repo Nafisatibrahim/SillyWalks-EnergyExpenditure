@@ -12,8 +12,7 @@ The project is inspired by Monty Python’s famous sketch and aims to quantify t
 ## Files and Directories
 - `WalkData4650.csv` - Dataset used for the analysis.
 - `Final_Project_Stats.R` - R scripts for performing the statistical analysis.
-- `Nafisat Ibrahim - Final Project - Statistics.pdf` - Comprehensive project report detailing methodology, analysis, and conclusions.
-- `Analysis_Notebook.ipynb` (Optional) - Jupyter Notebook that provides a step-by-step walkthrough of the analysis.
+- `Nafisat Ibrahim - Final Project - Statistics.pdf` - Comprehensive project report detailing methodology, analysis, and conclusions
 
 ## How to Run the Analysis
 1. Ensure you have R and RStudio installed on your machine. Alternatively, use an R environment in Jupyter if you prefer.
